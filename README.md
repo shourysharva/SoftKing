@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shourysharva
+- 👋 Hi, I’m Shoury
 - 👀 I’m interested in Python, C#, Gaming, Fun coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
